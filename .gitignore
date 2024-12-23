@@ -174,8 +174,7 @@ cython_debug/
 youtube_links.txt
 
 # custom folders
-./canto_songs
-./converted_canto_songs
-./test_scripts
-./test_songs
-./transcribed_canto_songs
+canto_songs/
+converted_canto_songs/
+test_scripts/
+test_songs/
